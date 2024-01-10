@@ -1,0 +1,19 @@
+/* styles.css */
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.card {
+    width: 18rem;
+    margin-bottom: 20px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+/* Add more styles as needed */
